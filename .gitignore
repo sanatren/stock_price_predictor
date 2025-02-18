@@ -1,0 +1,19 @@
+# Ignore large datasets & model files
+data/
+models/
+
+pycache__/
+
+*.pkl
+*.h5
+*.csv
+*.json
+*.zip
+*.log
+
+venv/
+env/
+
+
+.DS_Store
+Thumbs.db
