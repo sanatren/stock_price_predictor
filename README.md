@@ -22,6 +22,7 @@ this will run the project locally
 ........................................................................................
 
 check out the "data" folder to see how i downloaded and cleaned the yfinance stock data 
+
 go to raw->raw.py (to check the how the data have been downloaded (csv,json) through different data ranges)
 
 go to processed->cleaned.py (cleaned the data )
